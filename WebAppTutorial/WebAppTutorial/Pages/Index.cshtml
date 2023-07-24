@@ -1,0 +1,15 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4 green-text" id="hello_world" onmouseover="newColor()" onmouseout="oldColor()">Hello, World!</h1>
+    <button onclick="btnClick()">Click here</button>
+    <div id="myContainer">
+        <div id="js-test">Click button to animate text.</div>
+    </div>
+    <p class="my-design">This text is customized with CSS. Below is an embedded music video:</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
