@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BasicMath\BasicMath.cs\bin\Debug\BasicMath.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BasicMath\BasicMath.cs\bin\Debug\BasicMath.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BasicMath\BasicMath.cs\bin\Debug\BasicMath.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BasicMath\BasicMath.cs\obj\Debug\BasicMath.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BasicMath\BasicMath.cs\obj\Debug\BasicMath.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BasicMath\BasicMath.cs\obj\Debug\BasicMath.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BasicMath\BasicMath.cs\obj\Debug\BasicMath.cs.pdb
