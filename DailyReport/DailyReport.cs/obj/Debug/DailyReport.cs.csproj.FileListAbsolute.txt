@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DailyReport\DailyReport.cs\bin\Debug\DailyReport.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DailyReport\DailyReport.cs\bin\Debug\DailyReport.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DailyReport\DailyReport.cs\bin\Debug\DailyReport.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DailyReport\DailyReport.cs\obj\Debug\DailyReport.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DailyReport\DailyReport.cs\obj\Debug\DailyReport.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DailyReport\DailyReport.cs\obj\Debug\DailyReport.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DailyReport\DailyReport.cs\obj\Debug\DailyReport.cs.csproj.AssemblyReference.cache
