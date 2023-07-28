@@ -1,0 +1,6 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IncomeComparison\IncomeComparison.cs\bin\Debug\IncomeComparison.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IncomeComparison\IncomeComparison.cs\bin\Debug\IncomeComparison.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IncomeComparison\IncomeComparison.cs\bin\Debug\IncomeComparison.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IncomeComparison\IncomeComparison.cs\obj\Debug\IncomeComparison.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IncomeComparison\IncomeComparison.cs\obj\Debug\IncomeComparison.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IncomeComparison\IncomeComparison.cs\obj\Debug\IncomeComparison.cs.pdb
