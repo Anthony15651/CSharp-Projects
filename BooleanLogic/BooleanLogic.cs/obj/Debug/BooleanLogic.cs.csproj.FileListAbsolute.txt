@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanLogic\BooleanLogic.cs\bin\Debug\BooleanLogic.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanLogic\BooleanLogic.cs\bin\Debug\BooleanLogic.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanLogic\BooleanLogic.cs\bin\Debug\BooleanLogic.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanLogic\BooleanLogic.cs\obj\Debug\BooleanLogic.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanLogic\BooleanLogic.cs\obj\Debug\BooleanLogic.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanLogic\BooleanLogic.cs\obj\Debug\BooleanLogic.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanLogic\BooleanLogic.cs\obj\Debug\BooleanLogic.cs.pdb
