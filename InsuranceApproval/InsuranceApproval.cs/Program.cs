@@ -28,7 +28,15 @@ namespace InsuranceApproval.cs
 
             // Logic to determine if user qualifies
             bool userQualified = (userAge > 15) && (userDUI == false) && (userTickets <= 3);
-            Console.WriteLine("Are you qualified for our car insurance?\n" + userQualified);
+            Console.WriteLine("Are you qualified for our car insurance?");
+            if (userQualified == true)
+            {
+                Console.WriteLine("Congrats, you are qualified!");
+            }
+            else
+            {
+                Console.WriteLine("I'm sorry, but you carry too much risk to insure.");
+            }
             Console.ReadLine();
         }
     }
