@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators.cs\bin\Debug\MathAndComparisonOperators.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators.cs\bin\Debug\MathAndComparisonOperators.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators.cs\bin\Debug\MathAndComparisonOperators.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators.cs\obj\Debug\MathAndComparisonOperators.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators.cs\obj\Debug\MathAndComparisonOperators.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators.cs\obj\Debug\MathAndComparisonOperators.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MathAndComparisonOperators\MathAndComparisonOperators.cs\obj\Debug\MathAndComparisonOperators.cs.pdb
