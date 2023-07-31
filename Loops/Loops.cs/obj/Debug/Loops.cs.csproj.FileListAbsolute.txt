@@ -1,0 +1,6 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Loops\Loops.cs\bin\Debug\Loops.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Loops\Loops.cs\bin\Debug\Loops.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Loops\Loops.cs\bin\Debug\Loops.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Loops\Loops.cs\obj\Debug\Loops.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Loops\Loops.cs\obj\Debug\Loops.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Loops\Loops.cs\obj\Debug\Loops.cs.pdb
