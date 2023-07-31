@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IfElsePractice\IfElsePractice.cs\bin\Debug\IfElsePractice.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IfElsePractice\IfElsePractice.cs\bin\Debug\IfElsePractice.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IfElsePractice\IfElsePractice.cs\bin\Debug\IfElsePractice.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IfElsePractice\IfElsePractice.cs\obj\Debug\IfElsePractice.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IfElsePractice\IfElsePractice.cs\obj\Debug\IfElsePractice.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IfElsePractice\IfElsePractice.cs\obj\Debug\IfElsePractice.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IfElsePractice\IfElsePractice.cs\obj\Debug\IfElsePractice.cs.csproj.AssemblyReference.cache

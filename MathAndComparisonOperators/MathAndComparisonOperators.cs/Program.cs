@@ -36,12 +36,18 @@ namespace MathAndComparisonOperators.cs
             //Console.Write(trueOrfalse.ToString());
             //Console.ReadLine();
 
-            int roomTemperature = 70;
-            int currentTemperature = 70;
+            //int roomTemperature = 70;
+            //int currentTemperature = 70;
 
             //bool isWarm = currentTemperature >= roomTemperature;
-            bool isWarm = currentTemperature == roomTemperature;
-            Console.WriteLine(isWarm);
+            //bool isWarm = currentTemperature == roomTemperature;
+            //Console.WriteLine(isWarm);
+
+            int num1 = 10;
+            int num2 = 5;
+
+            string test = num1 > num2 ? "Number 1 is greater." : "Number 2 is greater.";
+            Console.WriteLine(test);
             Console.ReadLine();
         }
     }
