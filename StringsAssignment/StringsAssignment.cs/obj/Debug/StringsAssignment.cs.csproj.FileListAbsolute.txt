@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringsAssignment\StringsAssignment.cs\bin\Debug\StringsAssignment.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringsAssignment\StringsAssignment.cs\bin\Debug\StringsAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringsAssignment\StringsAssignment.cs\bin\Debug\StringsAssignment.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringsAssignment\StringsAssignment.cs\obj\Debug\StringsAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringsAssignment\StringsAssignment.cs\obj\Debug\StringsAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringsAssignment\StringsAssignment.cs\obj\Debug\StringsAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringsAssignment\StringsAssignment.cs\obj\Debug\StringsAssignment.cs.pdb

@@ -1,0 +1,6 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringFunctions\StringFunctions.cs\bin\Debug\StringFunctions.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringFunctions\StringFunctions.cs\bin\Debug\StringFunctions.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringFunctions\StringFunctions.cs\bin\Debug\StringFunctions.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringFunctions\StringFunctions.cs\obj\Debug\StringFunctions.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringFunctions\StringFunctions.cs\obj\Debug\StringFunctions.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringFunctions\StringFunctions.cs\obj\Debug\StringFunctions.cs.pdb
