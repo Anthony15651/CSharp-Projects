@@ -35,6 +35,26 @@ class Program
 
         }
         Console.WriteLine(myIntArray[userInt]);
+
+
+        // Creating a list of strings
+        List<string> myList = new List<string>();
+        myList.Add("This is");
+        myList.Add("a list");
+        myList.Add("of different");
+        myList.Add("string values.");
+        Console.WriteLine("Please select an index of the List, and I will display the string associated with it.");
+        userInt = Convert.ToInt32(Console.ReadLine());
+
+        // Checks to make sure user input is a valid index
+        while (userInt > 3)
+        {
+            Console.WriteLine("I'm sorry, the array is not that large. Please select an index between 1 - 3.");
+            userInt = Convert.ToInt32(Console.ReadLine());
+
+        }
+        Console.WriteLine(myList[userInt]);
+
         Console.ReadLine();
     }
 }
