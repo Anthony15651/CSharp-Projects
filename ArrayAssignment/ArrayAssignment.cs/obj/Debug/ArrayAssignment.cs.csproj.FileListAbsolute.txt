@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayAssignment\ArrayAssignment.cs\bin\Debug\ArrayAssignment.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayAssignment\ArrayAssignment.cs\bin\Debug\ArrayAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayAssignment\ArrayAssignment.cs\bin\Debug\ArrayAssignment.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayAssignment\ArrayAssignment.cs\obj\Debug\ArrayAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayAssignment\ArrayAssignment.cs\obj\Debug\ArrayAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayAssignment\ArrayAssignment.cs\obj\Debug\ArrayAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayAssignment\ArrayAssignment.cs\obj\Debug\ArrayAssignment.cs.pdb
