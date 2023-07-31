@@ -30,6 +30,8 @@ namespace StringsAssignment.cs
             mySB.Append("I've ran out of sentence ideas. ");
             mySB.Append("This paragraph will only be four sentences instead.");
             Console.WriteLine(mySB);
+
+
             Console.ReadLine();
 
         }
