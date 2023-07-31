@@ -4,3 +4,4 @@ C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\W
 C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\WhileStatements\WhileStatements.cs\obj\Debug\WhileStatements.cs.csproj.CoreCompileInputs.cache
 C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\WhileStatements\WhileStatements.cs\obj\Debug\WhileStatements.cs.exe
 C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\WhileStatements\WhileStatements.cs\obj\Debug\WhileStatements.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\WhileStatements\WhileStatements.cs\obj\Debug\WhileStatements.cs.csproj.AssemblyReference.cache

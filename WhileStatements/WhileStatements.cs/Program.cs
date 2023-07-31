@@ -12,6 +12,7 @@ namespace WhileStatements.cs
         {
             int guesses = 0;
 
+            // First while loop (runs 3 times)
             while (guesses != 3)
             {
                 Console.WriteLine("Guess a number!");
@@ -21,6 +22,7 @@ namespace WhileStatements.cs
 
             Console.WriteLine("Good guesses!");
 
+            // Second while loop (runs until number is guessed correctly)
             Console.WriteLine("What number am I thinking of (between 1 - 5)?");
             int number = Convert.ToInt32(Console.ReadLine());
             bool numberGuessed = false;
@@ -42,7 +44,7 @@ namespace WhileStatements.cs
 
             }
             while (!numberGuessed);
-            Console.ReadLine();
+            Console.Read();
         }
     }
 }
