@@ -1,0 +1,6 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ExceptionHandling\ExceptionHandling.cs\obj\Debug\ExceptionHandling.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ExceptionHandling\ExceptionHandling.cs\bin\Debug\ExceptionHandling.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ExceptionHandling\ExceptionHandling.cs\bin\Debug\ExceptionHandling.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ExceptionHandling\ExceptionHandling.cs\bin\Debug\ExceptionHandling.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ExceptionHandling\ExceptionHandling.cs\obj\Debug\ExceptionHandling.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ExceptionHandling\ExceptionHandling.cs\obj\Debug\ExceptionHandling.cs.pdb

@@ -1,0 +1,6 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment.cs\bin\Debug\StringsAndIntegersAssignment.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment.cs\bin\Debug\StringsAndIntegersAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment.cs\bin\Debug\StringsAndIntegersAssignment.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment.cs\obj\Debug\StringsAndIntegersAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment.cs\obj\Debug\StringsAndIntegersAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringsAndIntegersAssignment\StringsAndIntegersAssignment.cs\obj\Debug\StringsAndIntegersAssignment.cs.pdb
