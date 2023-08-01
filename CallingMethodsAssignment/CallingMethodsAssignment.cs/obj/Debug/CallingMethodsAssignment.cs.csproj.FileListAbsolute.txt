@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment.cs\bin\Debug\CallingMethodsAssignment.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment.cs\bin\Debug\CallingMethodsAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment.cs\bin\Debug\CallingMethodsAssignment.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment.cs\obj\Debug\CallingMethodsAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment.cs\obj\Debug\CallingMethodsAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment.cs\obj\Debug\CallingMethodsAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CallingMethodsAssignment\CallingMethodsAssignment.cs\obj\Debug\CallingMethodsAssignment.cs.pdb

@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\TwentyOne\TwentyOne.cs\bin\Debug\TwentyOne.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\TwentyOne\TwentyOne.cs\bin\Debug\TwentyOne.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\TwentyOne\TwentyOne.cs\bin\Debug\TwentyOne.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\TwentyOne\TwentyOne.cs\obj\Debug\TwentyOne.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\TwentyOne\TwentyOne.cs\obj\Debug\TwentyOne.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\TwentyOne\TwentyOne.cs\obj\Debug\TwentyOne.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\TwentyOne\TwentyOne.cs\obj\Debug\TwentyOne.cs.pdb
