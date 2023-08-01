@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment.cs\bin\Debug\ConsoleAppAssignment.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment.cs\bin\Debug\ConsoleAppAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment.cs\bin\Debug\ConsoleAppAssignment.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment.cs\obj\Debug\ConsoleAppAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment.cs\obj\Debug\ConsoleAppAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment.cs\obj\Debug\ConsoleAppAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConsoleAppAssignment\ConsoleAppAssignment.cs\obj\Debug\ConsoleAppAssignment.cs.pdb

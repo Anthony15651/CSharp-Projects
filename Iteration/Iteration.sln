@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iteration.cs", "Iteration.cs\Iteration.cs.csproj", "{ED04FA15-8F3D-48E7-B4A5-35CF0AA64041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED04FA15-8F3D-48E7-B4A5-35CF0AA64041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED04FA15-8F3D-48E7-B4A5-35CF0AA64041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED04FA15-8F3D-48E7-B4A5-35CF0AA64041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED04FA15-8F3D-48E7-B4A5-35CF0AA64041}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6450F639-F6A1-4C8D-A00E-679A5FB4AD80}
+	EndGlobalSection
+EndGlobal
