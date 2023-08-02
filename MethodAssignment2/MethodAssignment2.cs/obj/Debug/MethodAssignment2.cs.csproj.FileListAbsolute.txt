@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment2\MethodAssignment2.cs\bin\Debug\MethodAssignment2.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment2\MethodAssignment2.cs\bin\Debug\MethodAssignment2.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment2\MethodAssignment2.cs\bin\Debug\MethodAssignment2.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment2\MethodAssignment2.cs\obj\Debug\MethodAssignment2.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment2\MethodAssignment2.cs\obj\Debug\MethodAssignment2.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment2\MethodAssignment2.cs\obj\Debug\MethodAssignment2.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment2\MethodAssignment2.cs\obj\Debug\MethodAssignment2.cs.pdb
