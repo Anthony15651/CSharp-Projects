@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment.cs\obj\Debug\MethodsAndObjectsAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment.cs\obj\Debug\MethodsAndObjectsAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment.cs\bin\Debug\MethodsAndObjectsAssignment.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment.cs\bin\Debug\MethodsAndObjectsAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment.cs\bin\Debug\MethodsAndObjectsAssignment.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment.cs\obj\Debug\MethodsAndObjectsAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment.cs\obj\Debug\MethodsAndObjectsAssignment.cs.pdb
