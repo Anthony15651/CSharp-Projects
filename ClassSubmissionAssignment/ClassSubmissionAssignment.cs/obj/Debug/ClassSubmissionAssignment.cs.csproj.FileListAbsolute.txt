@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ClassSubmissionAssignment\ClassSubmissionAssignment.cs\bin\Debug\ClassSubmissionAssignment.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ClassSubmissionAssignment\ClassSubmissionAssignment.cs\bin\Debug\ClassSubmissionAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ClassSubmissionAssignment\ClassSubmissionAssignment.cs\bin\Debug\ClassSubmissionAssignment.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ClassSubmissionAssignment\ClassSubmissionAssignment.cs\obj\Debug\ClassSubmissionAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ClassSubmissionAssignment\ClassSubmissionAssignment.cs\obj\Debug\ClassSubmissionAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ClassSubmissionAssignment\ClassSubmissionAssignment.cs\obj\Debug\ClassSubmissionAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ClassSubmissionAssignment\ClassSubmissionAssignment.cs\obj\Debug\ClassSubmissionAssignment.cs.pdb
