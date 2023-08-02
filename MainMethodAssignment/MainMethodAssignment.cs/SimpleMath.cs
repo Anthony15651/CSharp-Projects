@@ -23,7 +23,11 @@ namespace MainMethodAssignment.cs
         // Function for subtracting decimals
         public decimal Addition(decimal x)
         {
-            return (x - 10);
+            // Converting result from decimal to int
+            int decimalResult = Convert.ToInt32(x - 10);
+
+            // Returning variable as an integer
+            return (decimalResult);
         }
 
         // Function for converting and adding strings
@@ -31,10 +35,13 @@ namespace MainMethodAssignment.cs
         {
             try
             {
-                int newInteger = Convert.ToInt32(x);
-                newInteger += 50;
-                string integerString = newInteger.ToString();
-                return (integerString);
+                // Converting result from string to int
+                int stringResult = Convert.ToInt32(x + 50);
+
+                // Console.WriteLine(stringResult.GetType());
+
+                // Can't return variable as an int
+                return (stringResult.ToString());
             }
             catch
             {
