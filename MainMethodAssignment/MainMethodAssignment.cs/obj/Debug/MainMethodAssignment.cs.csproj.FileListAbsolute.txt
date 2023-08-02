@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MainMethodAssignment\MainMethodAssignment.cs\bin\Debug\MainMethodAssignment.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MainMethodAssignment\MainMethodAssignment.cs\bin\Debug\MainMethodAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MainMethodAssignment\MainMethodAssignment.cs\bin\Debug\MainMethodAssignment.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MainMethodAssignment\MainMethodAssignment.cs\obj\Debug\MainMethodAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MainMethodAssignment\MainMethodAssignment.cs\obj\Debug\MainMethodAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MainMethodAssignment\MainMethodAssignment.cs\obj\Debug\MainMethodAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MainMethodAssignment\MainMethodAssignment.cs\obj\Debug\MainMethodAssignment.cs.pdb
