@@ -4,3 +4,4 @@ C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\A
 C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AbstractClassAssignment\AbstractClassAssignment.cs\obj\Debug\AbstractClassAssignment.cs.csproj.CoreCompileInputs.cache
 C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AbstractClassAssignment\AbstractClassAssignment.cs\obj\Debug\AbstractClassAssignment.cs.exe
 C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AbstractClassAssignment\AbstractClassAssignment.cs\obj\Debug\AbstractClassAssignment.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AbstractClassAssignment\AbstractClassAssignment.cs\obj\Debug\AbstractClassAssignment.cs.csproj.AssemblyReference.cache

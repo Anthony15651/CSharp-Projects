@@ -16,6 +16,12 @@ namespace AbstractClassAssignment.cs
             // Calling the "SayName()" method on the employee object
             employee.SayName();
 
+            // Using polymorphism to create an object of type "IQuittable"
+            IQuittable quittableObject = new Employee();
+
+            // Calling the "Quit()" method on the IQuittable object
+            quittableObject.Quit();
+
             Console.ReadLine();
 
         }
