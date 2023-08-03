@@ -9,7 +9,7 @@ namespace TwentyOne.cs
     public class Card
     {
         public Suit Suit { get; set; }
-        public Face Face { get; set; }
+        public Face Face { get; set; }  
     }
     public enum Suit
     {
