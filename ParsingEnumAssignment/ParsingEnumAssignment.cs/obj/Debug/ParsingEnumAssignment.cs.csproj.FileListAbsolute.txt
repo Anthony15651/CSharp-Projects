@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingEnumAssignment\ParsingEnumAssignment.cs\obj\Debug\ParsingEnumAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingEnumAssignment\ParsingEnumAssignment.cs\obj\Debug\ParsingEnumAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingEnumAssignment\ParsingEnumAssignment.cs\bin\Debug\ParsingEnumAssignment.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingEnumAssignment\ParsingEnumAssignment.cs\bin\Debug\ParsingEnumAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingEnumAssignment\ParsingEnumAssignment.cs\bin\Debug\ParsingEnumAssignment.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingEnumAssignment\ParsingEnumAssignment.cs\obj\Debug\ParsingEnumAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingEnumAssignment\ParsingEnumAssignment.cs\obj\Debug\ParsingEnumAssignment.cs.pdb
