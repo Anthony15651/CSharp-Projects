@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\OperatorsAssignment\OperatorsAssignment.cs\obj\Debug\OperatorsAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\OperatorsAssignment\OperatorsAssignment.cs\obj\Debug\OperatorsAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\OperatorsAssignment\OperatorsAssignment.cs\bin\Debug\OperatorsAssignment.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\OperatorsAssignment\OperatorsAssignment.cs\bin\Debug\OperatorsAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\OperatorsAssignment\OperatorsAssignment.cs\bin\Debug\OperatorsAssignment.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\OperatorsAssignment\OperatorsAssignment.cs\obj\Debug\OperatorsAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\OperatorsAssignment\OperatorsAssignment.cs\obj\Debug\OperatorsAssignment.cs.pdb
