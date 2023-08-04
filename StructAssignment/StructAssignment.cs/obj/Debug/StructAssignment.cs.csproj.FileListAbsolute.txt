@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StructAssignment\StructAssignment.cs\bin\Debug\StructAssignment.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StructAssignment\StructAssignment.cs\bin\Debug\StructAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StructAssignment\StructAssignment.cs\bin\Debug\StructAssignment.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StructAssignment\StructAssignment.cs\obj\Debug\StructAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StructAssignment\StructAssignment.cs\obj\Debug\StructAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StructAssignment\StructAssignment.cs\obj\Debug\StructAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StructAssignment\StructAssignment.cs\obj\Debug\StructAssignment.cs.pdb
