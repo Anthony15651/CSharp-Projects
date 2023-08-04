@@ -49,7 +49,7 @@ namespace LambdaSubmissionAssignment.cs
             List<Employee> employeesNamedJoe1 = new List<Employee>();
             employeesNamedJoe1 = employees.Where(x => x.FirstName == "Joe").ToList();
 
-            // Using a lambda expression to list all Employees with ID > 5
+            // Using a lambda expression to create a new list of all Employees with ID > 5
             List<Employee> employeesOverFive = new List<Employee>();
             employeesOverFive = employees.Where(x => x.ID > 5).ToList();
 
