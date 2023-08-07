@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment.cs\bin\Debug\ConstructorSubmissionAssignment.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment.cs\bin\Debug\ConstructorSubmissionAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment.cs\bin\Debug\ConstructorSubmissionAssignment.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment.cs\obj\Debug\ConstructorSubmissionAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment.cs\obj\Debug\ConstructorSubmissionAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment.cs\obj\Debug\ConstructorSubmissionAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConstructorSubmissionAssignment\ConstructorSubmissionAssignment.cs\obj\Debug\ConstructorSubmissionAssignment.cs.pdb
