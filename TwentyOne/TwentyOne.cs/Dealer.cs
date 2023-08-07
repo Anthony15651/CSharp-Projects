@@ -20,6 +20,7 @@ namespace TwentyOne.cs
             Console.WriteLine(card);
             using (StreamWriter file = new StreamWriter(@"C:\Users\antho\OneDrive\Desktop\test.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
                 Deck.Cards.RemoveAt(0);

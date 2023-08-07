@@ -1,0 +1,6 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment.cs\bin\Debug\DateTimeSubmissionAssignment.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment.cs\bin\Debug\DateTimeSubmissionAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment.cs\bin\Debug\DateTimeSubmissionAssignment.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment.cs\obj\Debug\DateTimeSubmissionAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment.cs\obj\Debug\DateTimeSubmissionAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DateTimeSubmissionAssignment\DateTimeSubmissionAssignment.cs\obj\Debug\DateTimeSubmissionAssignment.cs.pdb
