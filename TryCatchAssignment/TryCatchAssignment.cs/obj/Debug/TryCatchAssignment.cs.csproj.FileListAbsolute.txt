@@ -1,0 +1,7 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\TryCatchAssignment\TryCatchAssignment.cs\obj\Debug\TryCatchAssignment.cs.csproj.AssemblyReference.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\TryCatchAssignment\TryCatchAssignment.cs\obj\Debug\TryCatchAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\TryCatchAssignment\TryCatchAssignment.cs\bin\Debug\TryCatchAssignment.cs.exe.config
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\TryCatchAssignment\TryCatchAssignment.cs\bin\Debug\TryCatchAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\TryCatchAssignment\TryCatchAssignment.cs\bin\Debug\TryCatchAssignment.cs.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\TryCatchAssignment\TryCatchAssignment.cs\obj\Debug\TryCatchAssignment.cs.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\TryCatchAssignment\TryCatchAssignment.cs\obj\Debug\TryCatchAssignment.cs.pdb
