@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
+using System.Diagnostics;
 using System.Linq;
 using System.Net;
 using System.Web;
@@ -48,6 +49,58 @@ namespace CarInsurance.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
         {
+            // Setting base price
+            double cost = 50;
+
+            // Logic to calculate cost for user age
+            DateTime rightNow = DateTime.Now;
+            DateTime ageCheckYoung = rightNow.AddYears(-18);
+            DateTime ageCheckOld = rightNow.AddYears(-25);
+            int ageDifferenceYoung = DateTime.Compare(ageCheckYoung, insuree.DateOfBirth);
+            int ageDifferenceOld = DateTime.Compare(ageCheckOld, insuree.DateOfBirth);
+            if (ageDifferenceYoung <= 0)
+            {
+                cost += 100;
+            }
+            else if ((ageDifferenceYoung > 0) && (ageDifferenceOld <= 0))
+            {
+                cost += 50;
+            }
+            else
+            {
+                cost += 25;
+            }
+
+            // Logic to calculate cost for car age
+            if ((insuree.CarYear < 2000) || (insuree.CarYear > 2015))
+            {
+                cost += 25;
+            }
+
+            // Logic to calculate cost for Porsche
+            if (insuree.CarMake.ToLower() == "porsche")
+            {
+                cost += 25;
+                if (insuree.CarModel.ToLower() == "911 carrera")
+                {
+                    cost += 25;
+                }
+            }
+
+            // Logic to calculate cost for speeding tickets
+            int speedFee = insuree.SpeedingTickets * 10;
+            cost += speedFee;
+
+            // Logic to calculate cost for DUI
+            bool DUICheck = insuree.DUI;
+            if (DUICheck) { cost = cost * 1.25; }
+
+            // Logic to calculate cost for Full Coverage
+            bool fullCoverage = insuree.CoverageType;
+            if (fullCoverage) { cost = cost * 1.5; }
+
+            insuree.Quote = Convert.ToInt32(cost);
+
             if (ModelState.IsValid)
             {
                 db.Insurees.Add(insuree);
@@ -122,6 +175,27 @@ namespace CarInsurance.Controllers
                 db.Dispose();
             }
             base.Dispose(disposing);
+        }
+
+        public ActionResult Admin()
+        {
+            using (InsuranceEntities db = new InsuranceEntities())
+            {
+                var insurees = db.Insurees;
+                var insureeList = new List<Insuree>();
+                foreach (var insuree in insurees)
+                {
+                    var Insuree = new Insuree();
+                    Insuree.Id = insuree.Id;
+                    Insuree.FirstName = insuree.FirstName;
+                    Insuree.LastName = insuree.LastName;
+                    Insuree.EmailAddress = insuree.EmailAddress;
+                    Insuree.Quote = insuree.Quote;
+                    insureeList.Add(Insuree);
+                }
+                return View(insureeList);
+            }
+                
         }
     }
 }

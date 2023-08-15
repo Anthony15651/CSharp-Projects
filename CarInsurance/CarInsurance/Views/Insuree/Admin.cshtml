@@ -1,0 +1,20 @@
+﻿@using CarInsurance.Models
+@model List<Insuree>
+
+
+@foreach (var insuree in Model)
+{
+    <div>
+        <div style="font-weight: bold; font-size: 1.5em;">First Name:</div>
+        <div>@insuree.FirstName</div>
+        <div style="font-weight: bold; font-size: 1.5em;">Last Name:</div>
+        <div>@insuree.LastName</div>
+        <div style="font-weight: bold; font-size: 1.5em;">Email Address:</div>
+        <div>@insuree.EmailAddress</div>
+        <div style="font-weight: bold; font-size: 1.5em;">Quote Price:</div>
+        <div>@insuree.Quote</div>
+        <br />
+        <div>----------------------------------------------------------------------------------------------------------</div>
+    </div>
+    <br />
+}
