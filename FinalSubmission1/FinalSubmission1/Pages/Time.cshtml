@@ -1,0 +1,13 @@
+﻿@page
+@model FinalSubmission1.Pages.TimeModel
+@{
+    ViewData["Title"] = "Current Time";
+    var myString = "The current time is:";
+}
+
+<!-- Customizing the <h2> element using Razor -->
+<h2>@myString</h2>
+<!-- Creating a simple page for "Current Time" -->
+<div style="font-size: 1.5em;">
+    @DateTime.Now.ToString("hh:mm:ss")
+</div>
