@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DecisionLogicPractice\bin\Debug\net7.0\DecisionLogicPractice.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DecisionLogicPractice\bin\Debug\net7.0\DecisionLogicPractice.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DecisionLogicPractice\bin\Debug\net7.0\DecisionLogicPractice.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DecisionLogicPractice\bin\Debug\net7.0\DecisionLogicPractice.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DecisionLogicPractice\bin\Debug\net7.0\DecisionLogicPractice.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DecisionLogicPractice\obj\Debug\net7.0\DecisionLogicPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DecisionLogicPractice\obj\Debug\net7.0\DecisionLogicPractice.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DecisionLogicPractice\obj\Debug\net7.0\DecisionLogicPractice.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DecisionLogicPractice\obj\Debug\net7.0\DecisionLogicPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DecisionLogicPractice\obj\Debug\net7.0\DecisionLogicPractice.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DecisionLogicPractice\obj\Debug\net7.0\refint\DecisionLogicPractice.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DecisionLogicPractice\obj\Debug\net7.0\DecisionLogicPractice.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DecisionLogicPractice\obj\Debug\net7.0\DecisionLogicPractice.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DecisionLogicPractice\obj\Debug\net7.0\ref\DecisionLogicPractice.dll
