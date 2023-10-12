@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CommonCodingConventions\bin\Debug\net7.0\CommonCodingConventions.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CommonCodingConventions\bin\Debug\net7.0\CommonCodingConventions.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CommonCodingConventions\bin\Debug\net7.0\CommonCodingConventions.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CommonCodingConventions\bin\Debug\net7.0\CommonCodingConventions.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CommonCodingConventions\bin\Debug\net7.0\CommonCodingConventions.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CommonCodingConventions\obj\Debug\net7.0\CommonCodingConventions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CommonCodingConventions\obj\Debug\net7.0\CommonCodingConventions.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CommonCodingConventions\obj\Debug\net7.0\CommonCodingConventions.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CommonCodingConventions\obj\Debug\net7.0\CommonCodingConventions.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CommonCodingConventions\obj\Debug\net7.0\CommonCodingConventions.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CommonCodingConventions\obj\Debug\net7.0\refint\CommonCodingConventions.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CommonCodingConventions\obj\Debug\net7.0\CommonCodingConventions.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CommonCodingConventions\obj\Debug\net7.0\CommonCodingConventions.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CommonCodingConventions\obj\Debug\net7.0\ref\CommonCodingConventions.dll
