@@ -1,5 +1,8 @@
-﻿string[] fraudulentOrderIDs = new string[3];
+﻿string[] fraudulentOrderIDs = {"B123", "C234", "A345", "C15", "B177", "G3003", "C235", "B179"};
 
-fraudulentOrderIDs[0] = "A123";
-fraudulentOrderIDs[1] = "B456";
-fraudulentOrderIDs[2] = "C789";
+foreach (string order in fraudulentOrderIDs) {
+    if (order.StartsWith("B")) {
+        Console.WriteLine($"{order}");
+    }
+}
+

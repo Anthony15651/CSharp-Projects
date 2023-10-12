@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayPractice\bin\Debug\net7.0\ArrayPractice.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayPractice\bin\Debug\net7.0\ArrayPractice.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayPractice\bin\Debug\net7.0\ArrayPractice.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayPractice\bin\Debug\net7.0\ArrayPractice.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayPractice\bin\Debug\net7.0\ArrayPractice.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayPractice\obj\Debug\net7.0\ArrayPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayPractice\obj\Debug\net7.0\ArrayPractice.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayPractice\obj\Debug\net7.0\ArrayPractice.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayPractice\obj\Debug\net7.0\ArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayPractice\obj\Debug\net7.0\ArrayPractice.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayPractice\obj\Debug\net7.0\refint\ArrayPractice.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayPractice\obj\Debug\net7.0\ArrayPractice.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayPractice\obj\Debug\net7.0\ArrayPractice.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ArrayPractice\obj\Debug\net7.0\ref\ArrayPractice.dll
