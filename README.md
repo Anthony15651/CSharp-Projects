@@ -1,6 +1,6 @@
 # CSharp-Projects
 
-This repository contains my C# projects completed through The Tech Academy.
+This repository contains a collection of my C# projects and learning journey.
 
 <h3>Projects:</h3>
 <ul>
