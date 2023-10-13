@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DesicionLogicPractice2\bin\Debug\net7.0\DesicionLogicPractice2.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DesicionLogicPractice2\bin\Debug\net7.0\DesicionLogicPractice2.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DesicionLogicPractice2\bin\Debug\net7.0\DesicionLogicPractice2.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DesicionLogicPractice2\bin\Debug\net7.0\DesicionLogicPractice2.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DesicionLogicPractice2\bin\Debug\net7.0\DesicionLogicPractice2.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DesicionLogicPractice2\obj\Debug\net7.0\DesicionLogicPractice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DesicionLogicPractice2\obj\Debug\net7.0\DesicionLogicPractice2.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DesicionLogicPractice2\obj\Debug\net7.0\DesicionLogicPractice2.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DesicionLogicPractice2\obj\Debug\net7.0\DesicionLogicPractice2.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DesicionLogicPractice2\obj\Debug\net7.0\DesicionLogicPractice2.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DesicionLogicPractice2\obj\Debug\net7.0\refint\DesicionLogicPractice2.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DesicionLogicPractice2\obj\Debug\net7.0\DesicionLogicPractice2.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DesicionLogicPractice2\obj\Debug\net7.0\DesicionLogicPractice2.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DesicionLogicPractice2\obj\Debug\net7.0\ref\DesicionLogicPractice2.dll
