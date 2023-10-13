@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanBasics\bin\Debug\net7.0\BooleanBasics.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanBasics\bin\Debug\net7.0\BooleanBasics.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanBasics\bin\Debug\net7.0\BooleanBasics.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanBasics\bin\Debug\net7.0\BooleanBasics.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanBasics\bin\Debug\net7.0\BooleanBasics.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanBasics\obj\Debug\net7.0\BooleanBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanBasics\obj\Debug\net7.0\BooleanBasics.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanBasics\obj\Debug\net7.0\BooleanBasics.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanBasics\obj\Debug\net7.0\BooleanBasics.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanBasics\obj\Debug\net7.0\BooleanBasics.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanBasics\obj\Debug\net7.0\refint\BooleanBasics.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanBasics\obj\Debug\net7.0\BooleanBasics.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanBasics\obj\Debug\net7.0\BooleanBasics.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\BooleanBasics\obj\Debug\net7.0\ref\BooleanBasics.dll
