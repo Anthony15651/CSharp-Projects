@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CoinFlipChallenge\bin\Debug\net7.0\CoinFlipChallenge.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CoinFlipChallenge\bin\Debug\net7.0\CoinFlipChallenge.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CoinFlipChallenge\bin\Debug\net7.0\CoinFlipChallenge.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CoinFlipChallenge\bin\Debug\net7.0\CoinFlipChallenge.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CoinFlipChallenge\bin\Debug\net7.0\CoinFlipChallenge.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CoinFlipChallenge\obj\Debug\net7.0\refint\CoinFlipChallenge.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CoinFlipChallenge\obj\Debug\net7.0\ref\CoinFlipChallenge.dll
