@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\VariableScopePractice\bin\Debug\net7.0\VariableScopePractice.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\VariableScopePractice\bin\Debug\net7.0\VariableScopePractice.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\VariableScopePractice\bin\Debug\net7.0\VariableScopePractice.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\VariableScopePractice\bin\Debug\net7.0\VariableScopePractice.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\VariableScopePractice\bin\Debug\net7.0\VariableScopePractice.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\VariableScopePractice\obj\Debug\net7.0\VariableScopePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\VariableScopePractice\obj\Debug\net7.0\VariableScopePractice.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\VariableScopePractice\obj\Debug\net7.0\VariableScopePractice.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\VariableScopePractice\obj\Debug\net7.0\VariableScopePractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\VariableScopePractice\obj\Debug\net7.0\VariableScopePractice.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\VariableScopePractice\obj\Debug\net7.0\refint\VariableScopePractice.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\VariableScopePractice\obj\Debug\net7.0\VariableScopePractice.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\VariableScopePractice\obj\Debug\net7.0\VariableScopePractice.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\VariableScopePractice\obj\Debug\net7.0\ref\VariableScopePractice.dll
