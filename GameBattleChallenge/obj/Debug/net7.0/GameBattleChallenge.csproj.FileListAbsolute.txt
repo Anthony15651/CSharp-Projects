@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\GameBattleChallenge\obj\Debug\net7.0\GameBattleChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\GameBattleChallenge\obj\Debug\net7.0\GameBattleChallenge.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\GameBattleChallenge\obj\Debug\net7.0\GameBattleChallenge.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\GameBattleChallenge\obj\Debug\net7.0\GameBattleChallenge.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\GameBattleChallenge\bin\Debug\net7.0\GameBattleChallenge.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\GameBattleChallenge\bin\Debug\net7.0\GameBattleChallenge.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\GameBattleChallenge\bin\Debug\net7.0\GameBattleChallenge.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\GameBattleChallenge\bin\Debug\net7.0\GameBattleChallenge.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\GameBattleChallenge\bin\Debug\net7.0\GameBattleChallenge.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\GameBattleChallenge\obj\Debug\net7.0\GameBattleChallenge.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\GameBattleChallenge\obj\Debug\net7.0\refint\GameBattleChallenge.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\GameBattleChallenge\obj\Debug\net7.0\GameBattleChallenge.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\GameBattleChallenge\obj\Debug\net7.0\GameBattleChallenge.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\GameBattleChallenge\obj\Debug\net7.0\ref\GameBattleChallenge.dll
