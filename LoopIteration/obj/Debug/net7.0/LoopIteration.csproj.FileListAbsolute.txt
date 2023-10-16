@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\LoopIteration\bin\Debug\net7.0\LoopIteration.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\LoopIteration\bin\Debug\net7.0\LoopIteration.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\LoopIteration\bin\Debug\net7.0\LoopIteration.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\LoopIteration\bin\Debug\net7.0\LoopIteration.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\LoopIteration\bin\Debug\net7.0\LoopIteration.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\LoopIteration\obj\Debug\net7.0\LoopIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\LoopIteration\obj\Debug\net7.0\LoopIteration.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\LoopIteration\obj\Debug\net7.0\LoopIteration.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\LoopIteration\obj\Debug\net7.0\LoopIteration.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\LoopIteration\obj\Debug\net7.0\LoopIteration.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\LoopIteration\obj\Debug\net7.0\refint\LoopIteration.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\LoopIteration\obj\Debug\net7.0\LoopIteration.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\LoopIteration\obj\Debug\net7.0\LoopIteration.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\LoopIteration\obj\Debug\net7.0\ref\LoopIteration.dll
