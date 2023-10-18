@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IntegralDataTypes\bin\Debug\net7.0\IntegralDataTypes.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IntegralDataTypes\bin\Debug\net7.0\IntegralDataTypes.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IntegralDataTypes\bin\Debug\net7.0\IntegralDataTypes.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IntegralDataTypes\bin\Debug\net7.0\IntegralDataTypes.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IntegralDataTypes\bin\Debug\net7.0\IntegralDataTypes.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IntegralDataTypes\obj\Debug\net7.0\IntegralDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IntegralDataTypes\obj\Debug\net7.0\IntegralDataTypes.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IntegralDataTypes\obj\Debug\net7.0\IntegralDataTypes.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IntegralDataTypes\obj\Debug\net7.0\IntegralDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IntegralDataTypes\obj\Debug\net7.0\IntegralDataTypes.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IntegralDataTypes\obj\Debug\net7.0\refint\IntegralDataTypes.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IntegralDataTypes\obj\Debug\net7.0\IntegralDataTypes.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IntegralDataTypes\obj\Debug\net7.0\IntegralDataTypes.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\IntegralDataTypes\obj\Debug\net7.0\ref\IntegralDataTypes.dll
