@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingChallenge\obj\Debug\net7.0\ParsingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingChallenge\obj\Debug\net7.0\ParsingChallenge.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingChallenge\obj\Debug\net7.0\ParsingChallenge.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingChallenge\obj\Debug\net7.0\ParsingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingChallenge\bin\Debug\net7.0\ParsingChallenge.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingChallenge\bin\Debug\net7.0\ParsingChallenge.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingChallenge\bin\Debug\net7.0\ParsingChallenge.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingChallenge\bin\Debug\net7.0\ParsingChallenge.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingChallenge\bin\Debug\net7.0\ParsingChallenge.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingChallenge\obj\Debug\net7.0\ParsingChallenge.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingChallenge\obj\Debug\net7.0\refint\ParsingChallenge.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingChallenge\obj\Debug\net7.0\ParsingChallenge.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingChallenge\obj\Debug\net7.0\ParsingChallenge.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParsingChallenge\obj\Debug\net7.0\ref\ParsingChallenge.dll
