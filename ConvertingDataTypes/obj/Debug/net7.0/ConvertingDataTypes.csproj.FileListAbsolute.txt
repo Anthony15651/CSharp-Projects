@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConvertingDataTypes\obj\Debug\net7.0\ConvertingDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConvertingDataTypes\obj\Debug\net7.0\ConvertingDataTypes.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConvertingDataTypes\obj\Debug\net7.0\ConvertingDataTypes.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConvertingDataTypes\obj\Debug\net7.0\ConvertingDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConvertingDataTypes\bin\Debug\net7.0\ConvertingDataTypes.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConvertingDataTypes\bin\Debug\net7.0\ConvertingDataTypes.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConvertingDataTypes\bin\Debug\net7.0\ConvertingDataTypes.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConvertingDataTypes\bin\Debug\net7.0\ConvertingDataTypes.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConvertingDataTypes\bin\Debug\net7.0\ConvertingDataTypes.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConvertingDataTypes\obj\Debug\net7.0\ConvertingDataTypes.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConvertingDataTypes\obj\Debug\net7.0\refint\ConvertingDataTypes.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConvertingDataTypes\obj\Debug\net7.0\ConvertingDataTypes.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConvertingDataTypes\obj\Debug\net7.0\ConvertingDataTypes.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ConvertingDataTypes\obj\Debug\net7.0\ref\ConvertingDataTypes.dll
