@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\SortingArrays\bin\Debug\net7.0\SortingArrays.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\SortingArrays\bin\Debug\net7.0\SortingArrays.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\SortingArrays\bin\Debug\net7.0\SortingArrays.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\SortingArrays\bin\Debug\net7.0\SortingArrays.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\SortingArrays\bin\Debug\net7.0\SortingArrays.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\SortingArrays\obj\Debug\net7.0\SortingArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\SortingArrays\obj\Debug\net7.0\SortingArrays.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\SortingArrays\obj\Debug\net7.0\SortingArrays.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\SortingArrays\obj\Debug\net7.0\SortingArrays.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\SortingArrays\obj\Debug\net7.0\SortingArrays.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\SortingArrays\obj\Debug\net7.0\refint\SortingArrays.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\SortingArrays\obj\Debug\net7.0\SortingArrays.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\SortingArrays\obj\Debug\net7.0\SortingArrays.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\SortingArrays\obj\Debug\net7.0\ref\SortingArrays.dll
