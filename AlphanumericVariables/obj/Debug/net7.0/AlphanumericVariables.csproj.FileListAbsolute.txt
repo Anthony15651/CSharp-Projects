@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AlphanumericVariables\bin\Debug\net7.0\AlphanumericVariables.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AlphanumericVariables\bin\Debug\net7.0\AlphanumericVariables.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AlphanumericVariables\bin\Debug\net7.0\AlphanumericVariables.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AlphanumericVariables\bin\Debug\net7.0\AlphanumericVariables.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AlphanumericVariables\bin\Debug\net7.0\AlphanumericVariables.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AlphanumericVariables\obj\Debug\net7.0\AlphanumericVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AlphanumericVariables\obj\Debug\net7.0\AlphanumericVariables.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AlphanumericVariables\obj\Debug\net7.0\AlphanumericVariables.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AlphanumericVariables\obj\Debug\net7.0\AlphanumericVariables.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AlphanumericVariables\obj\Debug\net7.0\AlphanumericVariables.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AlphanumericVariables\obj\Debug\net7.0\refint\AlphanumericVariables.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AlphanumericVariables\obj\Debug\net7.0\AlphanumericVariables.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AlphanumericVariables\obj\Debug\net7.0\AlphanumericVariables.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\AlphanumericVariables\obj\Debug\net7.0\ref\AlphanumericVariables.dll
