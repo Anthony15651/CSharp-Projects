@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringInterpolationChallenge\bin\Debug\net7.0\StringInterpolationChallenge.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringInterpolationChallenge\bin\Debug\net7.0\StringInterpolationChallenge.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringInterpolationChallenge\bin\Debug\net7.0\StringInterpolationChallenge.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringInterpolationChallenge\bin\Debug\net7.0\StringInterpolationChallenge.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringInterpolationChallenge\bin\Debug\net7.0\StringInterpolationChallenge.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringInterpolationChallenge\obj\Debug\net7.0\StringInterpolationChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringInterpolationChallenge\obj\Debug\net7.0\StringInterpolationChallenge.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringInterpolationChallenge\obj\Debug\net7.0\StringInterpolationChallenge.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringInterpolationChallenge\obj\Debug\net7.0\StringInterpolationChallenge.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringInterpolationChallenge\obj\Debug\net7.0\StringInterpolationChallenge.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringInterpolationChallenge\obj\Debug\net7.0\refint\StringInterpolationChallenge.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringInterpolationChallenge\obj\Debug\net7.0\StringInterpolationChallenge.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringInterpolationChallenge\obj\Debug\net7.0\StringInterpolationChallenge.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\StringInterpolationChallenge\obj\Debug\net7.0\ref\StringInterpolationChallenge.dll
