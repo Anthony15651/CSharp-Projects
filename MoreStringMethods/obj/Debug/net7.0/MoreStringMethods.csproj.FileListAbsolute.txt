@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MoreStringMethods\bin\Debug\net7.0\MoreStringMethods.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MoreStringMethods\bin\Debug\net7.0\MoreStringMethods.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MoreStringMethods\bin\Debug\net7.0\MoreStringMethods.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MoreStringMethods\bin\Debug\net7.0\MoreStringMethods.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MoreStringMethods\bin\Debug\net7.0\MoreStringMethods.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MoreStringMethods\obj\Debug\net7.0\MoreStringMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MoreStringMethods\obj\Debug\net7.0\MoreStringMethods.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MoreStringMethods\obj\Debug\net7.0\MoreStringMethods.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MoreStringMethods\obj\Debug\net7.0\MoreStringMethods.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MoreStringMethods\obj\Debug\net7.0\MoreStringMethods.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MoreStringMethods\obj\Debug\net7.0\refint\MoreStringMethods.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MoreStringMethods\obj\Debug\net7.0\MoreStringMethods.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MoreStringMethods\obj\Debug\net7.0\MoreStringMethods.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MoreStringMethods\obj\Debug\net7.0\ref\MoreStringMethods.dll
