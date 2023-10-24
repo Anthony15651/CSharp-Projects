@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CreatingMethods\bin\Debug\net7.0\CreatingMethods.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CreatingMethods\bin\Debug\net7.0\CreatingMethods.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CreatingMethods\bin\Debug\net7.0\CreatingMethods.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CreatingMethods\bin\Debug\net7.0\CreatingMethods.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CreatingMethods\bin\Debug\net7.0\CreatingMethods.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CreatingMethods\obj\Debug\net7.0\CreatingMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CreatingMethods\obj\Debug\net7.0\CreatingMethods.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CreatingMethods\obj\Debug\net7.0\CreatingMethods.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CreatingMethods\obj\Debug\net7.0\CreatingMethods.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CreatingMethods\obj\Debug\net7.0\CreatingMethods.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CreatingMethods\obj\Debug\net7.0\refint\CreatingMethods.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CreatingMethods\obj\Debug\net7.0\CreatingMethods.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CreatingMethods\obj\Debug\net7.0\CreatingMethods.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\CreatingMethods\obj\Debug\net7.0\ref\CreatingMethods.dll
