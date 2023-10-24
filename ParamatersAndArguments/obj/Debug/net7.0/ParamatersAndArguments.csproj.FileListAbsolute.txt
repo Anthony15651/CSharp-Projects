@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParamatersAndArguments\bin\Debug\net7.0\ParamatersAndArguments.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParamatersAndArguments\bin\Debug\net7.0\ParamatersAndArguments.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParamatersAndArguments\bin\Debug\net7.0\ParamatersAndArguments.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParamatersAndArguments\bin\Debug\net7.0\ParamatersAndArguments.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParamatersAndArguments\bin\Debug\net7.0\ParamatersAndArguments.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParamatersAndArguments\obj\Debug\net7.0\ParamatersAndArguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParamatersAndArguments\obj\Debug\net7.0\ParamatersAndArguments.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParamatersAndArguments\obj\Debug\net7.0\ParamatersAndArguments.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParamatersAndArguments\obj\Debug\net7.0\ParamatersAndArguments.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParamatersAndArguments\obj\Debug\net7.0\ParamatersAndArguments.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParamatersAndArguments\obj\Debug\net7.0\refint\ParamatersAndArguments.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParamatersAndArguments\obj\Debug\net7.0\ParamatersAndArguments.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParamatersAndArguments\obj\Debug\net7.0\ParamatersAndArguments.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\ParamatersAndArguments\obj\Debug\net7.0\ref\ParamatersAndArguments.dll
