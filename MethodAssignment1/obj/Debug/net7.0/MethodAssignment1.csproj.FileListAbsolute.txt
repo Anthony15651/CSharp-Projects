@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment1\bin\Debug\net7.0\MethodAssignment1.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment1\bin\Debug\net7.0\MethodAssignment1.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment1\bin\Debug\net7.0\MethodAssignment1.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment1\bin\Debug\net7.0\MethodAssignment1.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment1\bin\Debug\net7.0\MethodAssignment1.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment1\obj\Debug\net7.0\MethodAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment1\obj\Debug\net7.0\MethodAssignment1.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment1\obj\Debug\net7.0\MethodAssignment1.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment1\obj\Debug\net7.0\MethodAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment1\obj\Debug\net7.0\MethodAssignment1.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment1\obj\Debug\net7.0\refint\MethodAssignment1.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment1\obj\Debug\net7.0\MethodAssignment1.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment1\obj\Debug\net7.0\MethodAssignment1.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\MethodAssignment1\obj\Debug\net7.0\ref\MethodAssignment1.dll
