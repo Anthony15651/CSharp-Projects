@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\PettingZooProject\bin\Debug\net7.0\PettingZooProject.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\PettingZooProject\bin\Debug\net7.0\PettingZooProject.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\PettingZooProject\bin\Debug\net7.0\PettingZooProject.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\PettingZooProject\bin\Debug\net7.0\PettingZooProject.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\PettingZooProject\bin\Debug\net7.0\PettingZooProject.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\PettingZooProject\obj\Debug\net7.0\PettingZooProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\PettingZooProject\obj\Debug\net7.0\PettingZooProject.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\PettingZooProject\obj\Debug\net7.0\PettingZooProject.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\PettingZooProject\obj\Debug\net7.0\PettingZooProject.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\PettingZooProject\obj\Debug\net7.0\PettingZooProject.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\PettingZooProject\obj\Debug\net7.0\refint\PettingZooProject.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\PettingZooProject\obj\Debug\net7.0\PettingZooProject.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\PettingZooProject\obj\Debug\net7.0\PettingZooProject.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\PettingZooProject\obj\Debug\net7.0\ref\PettingZooProject.dll
