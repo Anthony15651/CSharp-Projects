@@ -1,0 +1,14 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DiceMinigame\obj\Debug\net7.0\DiceMinigame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DiceMinigame\obj\Debug\net7.0\DiceMinigame.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DiceMinigame\obj\Debug\net7.0\DiceMinigame.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DiceMinigame\obj\Debug\net7.0\DiceMinigame.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DiceMinigame\bin\Debug\net7.0\DiceMinigame.exe
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DiceMinigame\bin\Debug\net7.0\DiceMinigame.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DiceMinigame\bin\Debug\net7.0\DiceMinigame.runtimeconfig.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DiceMinigame\bin\Debug\net7.0\DiceMinigame.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DiceMinigame\bin\Debug\net7.0\DiceMinigame.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DiceMinigame\obj\Debug\net7.0\DiceMinigame.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DiceMinigame\obj\Debug\net7.0\refint\DiceMinigame.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DiceMinigame\obj\Debug\net7.0\DiceMinigame.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DiceMinigame\obj\Debug\net7.0\DiceMinigame.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\DiceMinigame\obj\Debug\net7.0\ref\DiceMinigame.dll
