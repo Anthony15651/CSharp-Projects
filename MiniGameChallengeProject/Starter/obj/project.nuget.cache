@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lFtM5r0PHSwBYub0+8QHrpkqlXQdGBcp+xgfxIyLxjMm97wKgToIbxO0OhAiAv5RHAVx8wzPZNXEjCzEQvd/9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\Tech-Academy-Projects\\CSharp-Projects\\MiniGameChallengeProject\\Starter\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\antho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
