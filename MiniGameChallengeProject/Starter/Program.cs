@@ -34,7 +34,17 @@ while (!shouldExit)
         shouldExit = false;
     }
 
-    Move();
+    if (ShouldSpeedUp())
+    {
+        // Set move to 3 to speed up
+        // ConsumedFood() needs to be updated for this to work. Since player moves by 3s, playerX will not always equal foodX
+        // so new foods will not be displayed.
+        Move();
+    }
+    else
+    {
+        Move();
+    }
 }
 
 // Returns true if the Terminal was resized 
@@ -74,7 +84,7 @@ void FreezePlayer()
 }
 
 // Reads directional input from the Console and moves the player
-void Move()
+void Move(int speed = 1)
 {
     int lastX = playerX;
     int lastY = playerY;
@@ -88,12 +98,17 @@ void Move()
             playerY++;
             break;
         case ConsoleKey.LeftArrow:
-            playerX--;
+            for (int i = 0; i < speed; i++)
+                playerX--;
             break;
         case ConsoleKey.RightArrow:
-            playerX++;
+            for (int i = 0; i < speed; i++)
+                playerX++;
             break;
         case ConsoleKey.Escape:
+            shouldExit = true;
+            break;
+        default:
             shouldExit = true;
             break;
     }
@@ -118,6 +133,10 @@ void Move()
     {
         ChangePlayer();
         ShowFood();
+        if (ShouldFreeze())
+        {
+            FreezePlayer();
+        }
     }
 }
 
@@ -141,4 +160,24 @@ bool ConsumedFood()
     {
         return false;
     }
+}
+
+bool ShouldFreeze()
+{
+    if (player == states[2])
+    {
+        return true;
+    }
+
+    return false;
+}
+
+bool ShouldSpeedUp()
+{
+    if (player == states[1])
+    {
+        return true;
+    }
+
+    return false;
 }
