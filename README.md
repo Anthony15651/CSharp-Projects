@@ -1,6 +1,6 @@
 # CSharp-Projects
 
-This repository contains a collection of my C# projects and learning journey.
+This repository contains a collection of my C# projects completed throughout my learning journey.
 
 <h3>Projects:</h3>
 <ul>
