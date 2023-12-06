@@ -4,3 +4,4 @@ MVC_Web_App/.vs/MVC_Web_App/config/applicationhost.config
 NewsletterAppMVC/.vs/NewsletterAppMVC/config/applicationhost.config
 Bulky/.vs/Bulky/FileContentIndex/ccb380e1-2810-4007-a04f-2d18e2c21881.vsidx
 Bulky/.vs/Bulky/FileContentIndex/62aba51e-12fd-49e7-b13b-6ce4a5fc2da4.vsidx
+*.vsidx
