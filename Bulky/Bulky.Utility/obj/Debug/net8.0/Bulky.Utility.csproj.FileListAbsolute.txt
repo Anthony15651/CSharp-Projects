@@ -1,0 +1,12 @@
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.sourcelink.json
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+C:\Users\antho\OneDrive\Documents\GitHub\Tech-Academy-Projects\CSharp-Projects\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
